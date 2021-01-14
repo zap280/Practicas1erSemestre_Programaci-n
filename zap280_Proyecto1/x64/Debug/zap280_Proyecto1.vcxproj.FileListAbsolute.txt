@@ -1,0 +1,2 @@
+C:\Users\Gera\Documents\AMERIKE\Programación\Visual Studio\zap280_Proyecto1\x64\Debug\zap280_Proyecto1.exe
+C:\Users\Gera\Documents\AMERIKE\Programación\Visual Studio\zap280_Proyecto1\x64\Debug\zap280_Proyecto1.pdb
