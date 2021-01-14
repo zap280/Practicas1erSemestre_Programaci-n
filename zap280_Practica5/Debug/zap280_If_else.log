@@ -1,0 +1,3 @@
+﻿  zap280_If_else.cpp
+C:\Users\geravv\Documents\Uni\Programación\Visual Studio\zap280_If_else\zap280_If_else.cpp(80): warning C4717: 'main': recursiva para todas las rutas de acceso de control; la función provocará el desbordamiento de la pila en tiempo de ejecución
+  zap280_If_else.vcxproj -> C:\Users\geravv\Documents\Uni\Programación\Visual Studio\zap280_If_else\Debug\zap280_If_else.exe

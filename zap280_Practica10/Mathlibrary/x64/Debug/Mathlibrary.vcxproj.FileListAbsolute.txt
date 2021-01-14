@@ -1,0 +1,2 @@
+C:\Users\Gera\Documents\AMERIKE\Programación\Visual Studio\StaticMath\x64\Debug\Mathlibrary.pdb
+C:\Users\Gera\Documents\AMERIKE\Programación\Visual Studio\StaticMath\Mathlibrary\x64\Debug\Mathlibrary.pdb

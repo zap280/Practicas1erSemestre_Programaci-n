@@ -1,0 +1,6 @@
+C:\Users\geravv\Documents\Uni\Programación\zap280_Pokemon\Debug\zap280_Pokemon.exe
+C:\Users\geravv\Documents\Uni\Programación\zap280_Pokemon\Debug\zap280_Pokemon.pdb
+C:\Users\geravv\Documents\Uni\Programación\Visual Studio\zap280_Pokemon\Debug\zap280_Pokemon.exe
+C:\Users\geravv\Documents\Uni\Programación\Visual Studio\zap280_Pokemon\Debug\zap280_Pokemon.pdb
+C:\Users\Gera\Documents\AMERIKE\Programación\Visual Studio\zap280_Pokemon\Debug\zap280_Pokemon.exe
+C:\Users\Gera\Documents\AMERIKE\Programación\Visual Studio\zap280_Pokemon\Debug\zap280_Pokemon.pdb

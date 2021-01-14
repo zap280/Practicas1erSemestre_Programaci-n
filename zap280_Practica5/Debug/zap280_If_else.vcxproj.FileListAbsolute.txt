@@ -1,0 +1,4 @@
+C:\Users\geravv\Documents\Uni\Programación\Visual Studio\zap280_If_else\Debug\zap280_If_else.exe
+C:\Users\geravv\Documents\Uni\Programación\Visual Studio\zap280_If_else\Debug\zap280_If_else.pdb
+C:\Users\Gera\Documents\AMERIKE\Programación\Visual Studio\zap280_If_else\Debug\zap280_If_else.exe
+C:\Users\Gera\Documents\AMERIKE\Programación\Visual Studio\zap280_If_else\Debug\zap280_If_else.pdb
